@@ -1,0 +1,124 @@
+{
+  "programming_terms": [
+    {
+      "term": "Algorithm",
+      "definition": "A step-by-step procedure or formula for solving a problem, especially by a computer."
+    },
+    {
+      "term": "Variable",
+      "definition": "A named storage location in memory that holds a value, which can be changed during program execution."
+    },
+    {
+      "term": "Function",
+      "definition": "A block of organized, reusable code that performs a single, related action. Functions provide better modularity for your application and a high degree of code reusing."
+    },
+    {
+      "term": "Loop",
+      "definition": "A control flow statement that allows code to be executed repeatedly based on a given Boolean condition."
+    },
+    {
+      "term": "Conditional Statement",
+      "definition": "A statement that performs different actions depending on whether a specified condition evaluates to true or false (e.g., if-else statements)."
+    },
+    {
+      "term": "Data Type",
+      "definition": "A classification that specifies which type of value a variable has and what type of mathematical, relational or logical operations can be applied to it (e.g., integer, string, boolean)."
+    },
+    {
+      "term": "Syntax",
+      "definition": "The set of rules that defines the combinations of symbols that are considered to be correctly structured programs in a particular programming language."
+    },
+    {
+      "term": "Bug",
+      "definition": "An error, flaw, failure, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways."
+    },
+    {
+      "term": "Debugging",
+      "definition": "The process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or a system."
+    },
+    {
+      "term": "Compiler",
+      "definition": "A special program that processes statements written in a particular programming language and turns them into machine language or 'code' that a computer's processor uses."
+    },
+    {
+      "term": "Interpreter",
+      "definition": "A computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program."
+    },
+    {
+      "term": "Framework",
+      "definition": "A reusable, 'semi-complete' application that can be specialized to produce custom applications. Frameworks are often specific to a programming language (e.g., React for JavaScript, Django for Python)."
+    },
+    {
+      "term": "Library",
+      "definition": "A collection of pre-written code that can be used to perform common tasks, making programming faster and more efficient."
+    },
+    {
+      "term": "API (Application Programming Interface)",
+      "definition": "A set of defined rules that enable different applications to communicate with each other."
+    },
+    {
+      "term": "Version Control",
+      "definition": "A system that records changes to a file or set of files over time so that you can recall specific versions later (e.g., Git)."
+    },
+    {
+      "term": "Repository",
+      "definition": "A central location where all the files, folders, and history of a project are stored, typically used with version control systems."
+    },
+    {
+      "term": "IDE (Integrated Development Environment)",
+      "definition": "A software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools, and a debugger."
+    },
+    {
+      "term": "Object-Oriented Programming (OOP)",
+      "definition": "A programming paradigm based on the concept of 'objects', which can contain data and code: data in the form of fields (attributes or properties), and code in the form of procedures (methods)."
+    },
+    {
+      "term": "Class",
+      "definition": "A blueprint or a template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods)."
+    },
+    {
+      "term": "Object",
+      "definition": "An instance of a class. It can be a combination of variables, functions, and data structures."
+    },
+    {
+      "term": "Inheritance",
+      "definition": "A mechanism in object-oriented programming where a new class (derived class) is created from an existing class (base class), inheriting its properties and behaviors."
+    },
+    {
+      "term": "Polymorphism",
+      "definition": "The ability of an object to take on many forms. In programming, it allows a single interface to be used for different data types."
+    },
+    {
+      "term": "Encapsulation",
+      "definition": "The bundling of data (attributes) and methods (functions) that operate on the data into a single unit, or class, and restricting direct access to some of the object's components."
+    },
+    {
+      "term": "Abstraction",
+      "definition": "The process of hiding the complex implementation details and showing only the essential features of the object."
+    },
+    {
+      "term": "Recursion",
+      "definition": "A programming technique where a function calls itself directly or indirectly to solve a problem."
+    },
+    {
+      "term": "API Endpoint",
+      "definition": "A specific URL that represents a particular resource or function within an API."
+    },
+    {
+      "term": "Database",
+      "definition": "An organized collection of data, generally stored and accessed electronically from a computer system."
+    },
+    {
+      "term": "Query",
+      "definition": "A request for data or information from a database table or combination of tables."
+    },
+    {
+      "term": "Frontend",
+      "definition": "The part of a website or application that users interact with directly, including the user interface and user experience."
+    },
+    {
+      "term": "Backend",
+      "definition": "The 'server-side' of a website or application, responsible for data storage, server logic, and database interactions."
+    }
+  ]
+}
